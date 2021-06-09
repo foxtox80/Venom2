@@ -7,4 +7,5 @@
 - HTML
 - CSS
 - SASS
+- Normalize
 
